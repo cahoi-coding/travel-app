@@ -14,6 +14,10 @@ export default class TourCardContainers extends Component<any, any>
         return(
             <div className="tour-card__container">
                 <TourCard/>
+                <TourCard/>
+                <TourCard/>
+                <TourCard/>
+                <TourCard/>
             </div>
         );
     }
